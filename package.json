@@ -1,0 +1,23 @@
+{
+  "name": "mmdte",
+  "version": "1.0.0",
+  "description": "Madum Markdown Text Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keizouw8/mmdte.git"
+  },
+  "keywords": [
+    "markdown",
+    "editor"
+  ],
+  "author": "Keizou Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keizouw8/mmdte/issues"
+  },
+  "homepage": "https://github.com/Keizouw8/mmdte#readme"
+}
